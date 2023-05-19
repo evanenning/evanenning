@@ -14,7 +14,7 @@
 
 
 
-### 🔝 Top repositorios en los que contrubuí:
+### 🔝 Top repositorios en los que contribuí:
 ![](https://github-contributor-stats.vercel.app/api?username=evanenning&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
